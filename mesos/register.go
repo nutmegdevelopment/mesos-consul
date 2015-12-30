@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/CiscoCloud/mesos-consul/registry"
-	"github.com/CiscoCloud/mesos-consul/state"
+	"github.com/nutmegdevelopment/mesos-consul/registry"
+	"github.com/nutmegdevelopment/mesos-consul/state"
 
 	log "github.com/sirupsen/logrus"
 )

@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/CiscoCloud/mesos-consul/config"
-	"github.com/CiscoCloud/mesos-consul/consul"
-	"github.com/CiscoCloud/mesos-consul/registry"
-	"github.com/CiscoCloud/mesos-consul/state"
+	"github.com/nutmegdevelopment/mesos-consul/config"
+	"github.com/nutmegdevelopment/mesos-consul/consul"
+	"github.com/nutmegdevelopment/mesos-consul/registry"
+	"github.com/nutmegdevelopment/mesos-consul/state"
 
 	consulapi "github.com/hashicorp/consul/api"
 	proto "github.com/mesos/mesos-go/mesosproto"
